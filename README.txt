@@ -1,5 +1,7 @@
 This package contains the code and input data needed to reproduce the analyses of Larsen, Ma, and Kaplan, "How important is connectivity for surface-water fluxes? A generalized expression for flux through heterogeneous landscapes." Explanations of all code and inputs follows.
 
+This package requires Matlab, along with its Statistics Toolbox and Optimization Toolbox, to run.
+
 A. INPUT FILES
 1. Synthetic Landscapes input only.xlsx: This file contains the results of the processed SWIFT2D simulations, with no column headings, for ease of reading into Matlab. Metadata associated with this file is as follows: 
 
